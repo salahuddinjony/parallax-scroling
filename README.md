@@ -2,7 +2,7 @@
 ### Using 
 * html
 * css
-*java script
-*Bootstrap
+* java script
+* Bootstrap
 ### Develop by Mohammad salah uddin
 
