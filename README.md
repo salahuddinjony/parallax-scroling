@@ -5,5 +5,5 @@
 * java script
 * Bootstrap
 ### Develop by Mohammad salah uddin
-[Live demo this project](http://salahuddinjony.me/parallax-scroling/.)
+[Live demo this project](http://salahuddinjony.me/parallax-scrolling/.)
 
