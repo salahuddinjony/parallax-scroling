@@ -12,7 +12,7 @@
 }
 body{
 	animation:load ease-in 1;
-	animation-duration: 1.5s;
+	animation-duration: 2s;
 	animation-fill-mode:forwards;
 }
 html,body{
@@ -70,7 +70,7 @@ html,body{
  	width:1000px;
  	height: 60px;
  	background-image: url("img/searchicon.png");
-  	background-position: 12px; 
+  	background-position: 15px; 
   	background-repeat: no-repeat;
   	background-size: 30px;
  	outline: none;
@@ -108,7 +108,7 @@ html,body{
 	bottom: 100%;
 	width: 100%;
 	height: 0;
-	background-color: red;
+	background-color: #ddd;
 
 }
 .palallax1-text{
